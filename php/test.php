@@ -1,5 +1,4 @@
 <?
 echo "fdㄷㅈㄷㄷㄷㄷㄷd";
-echo "ssssss";
-
-<?
+echo "sssㅇㄹㅇㄹㅇㅇㄹㅇㄹsss";
+?>
