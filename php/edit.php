@@ -1,4 +1,4 @@
 <?
-echo "수정페이지";
+echo "수정페dfdfd이지";
 exit;
 ?>
