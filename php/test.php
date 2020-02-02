@@ -1,4 +1,4 @@
 <?
-echo "fdd";
+echo "fdㄷㅈㄷㄷㄷㄷㄷd";
 
 <?
