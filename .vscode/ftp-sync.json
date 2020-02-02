@@ -1,4 +1,5 @@
 {
+    "name" : "myconnection",
     "remotePath": "./",
     "host": "host",
     "username": "username",
